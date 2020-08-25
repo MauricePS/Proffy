@@ -33,3 +33,6 @@ Tela do whatsapp após clicar no botão.
 Rearranjo dos componentes da tela para mobile.
 ![mobile](https://user-images.githubusercontent.com/65203254/91115462-a18f6680-e660-11ea-9597-4d9f7b20aa93.png)
 <br>
+
+## :mortar_board: Quem ministrou ?
+As aulas foram ministradas pelo [Mayk Brito](https://github.com/maykbrito) , nas aulas do **Next Level Week 2.0 - Discovery** :rocket:
