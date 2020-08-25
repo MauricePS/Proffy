@@ -1,6 +1,6 @@
 ![logo](https://user-images.githubusercontent.com/65203254/91113653-786cd700-e65c-11ea-8b1b-bd2c38751f6c.png)
 
-## Projeto criado durante a NextLevelWeek #2 da RocketSeat <br>
+## Projeto criado durante a NextLevelWeek 2.0 da RocketSeat <br>
 ## A semana consistiu em uma intensiva utilização e aprendizado de javascript, HTML e CSS entre outras ferramentas <br> <br>
 
 ### 1. Tela Inicial <br>
